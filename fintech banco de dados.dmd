@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="fintech banco de dados" id="A21EBC9B-C9BF-9C70-372B-DE62F7454553" version="3.5">
+<createdBy>gabig</createdBy>
+<createdTime>2023-04-24 21:18:48 UTC</createdTime>
+<ownerDesignName>fintech_bd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A21EBC9B-C9BF-9C70-372B-DE62F7454553</designId>
+</OSDM_Design>
